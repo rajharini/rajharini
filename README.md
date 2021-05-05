@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajharini</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Epistemophile</h3>
 
 - 📫 How to reach me **rajharini1812@gmail.com**
 
